@@ -1,6 +1,6 @@
 //=============================================================================================
 //  example call
-//"C:\Program Files\Java\jre1.8.0_351\bin\jjs.exe" renameTet.txt.js
+//"C:\Program Files\Java\jre1.8.0_351\bin\jjs.exe" renameFileTest.txt.js
 // file test:
 //  Create - Delete - Rename
 // in java.io.File class
